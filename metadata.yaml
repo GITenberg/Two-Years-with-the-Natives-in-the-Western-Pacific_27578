@@ -1,0 +1,28 @@
+_repo: Two-Years-with-the-Natives-in-the-Western-Pacific_27578
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Speiser, Felix
+    birthdate: 1880
+    deathdate: 1949
+    gutenberg_agent_id: '7755'
+    url: http://www.gutenberg.org/2009/agents/7755
+description: ''
+gutenberg_issued: '2008-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27578'
+  lccn: a15000490
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DU'
+- !lcsh 'Vanuatu -- Description and travel'
+- !lcsh 'Ethnology -- Vanuatu'
+title: Two Years with the Natives in the Western Pacific
+url: http://www.gutenberg.org/ebooks/27578
